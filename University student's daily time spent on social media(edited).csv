@@ -1,0 +1,253 @@
+Timestamp,Date,Gender,Age,Race,Which state are you from?,Which university are you from?,How many hours do you spend on social media in a day? (0.5 hour=30 minutes) ,Which social media site do you use the most?,What is the rating of your most used app?,How many friends did you add in your Facebook today?,How many followers did you gain in your Instagram today?
+2022/05/24 10:02:17 pm GMT+8,5/24/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),8,Instagram,3.5,0,1
+2022/05/24 10:22:04 pm GMT+8,5/24/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/24 10:31:22 pm GMT+8,5/24/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),8,YouTube,4.2,0,0
+2022/05/24 10:40:25 pm GMT+8,5/24/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),3,WhatsApp,4.3,0,0
+2022/05/24 11:02:33 pm GMT+8,5/24/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,WhatsApp,4.3,0,0
+2022/05/24 11:09:23 pm GMT+8,5/24/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),15,WhatsApp,4.3,0,1
+2022/05/24 9:47:37 pm GMT+8,5/24/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),2,YouTube ,4.2,0,0
+2022/05/24 9:48:17 pm GMT+8,5/24/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),4,TikTok,4.6,4,0
+2022/05/24 9:48:37 pm GMT+8,5/24/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),1,Messenger,3.8,0,0
+2022/05/24 9:50:32 pm GMT+8,5/24/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),5,YouTube,4.2,0,65
+2022/05/24 9:51:04 pm GMT+8,5/24/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),2.5,WhatsApp,4.3,0,2
+2022/05/24 9:51:11 pm GMT+8,5/24/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),5,TikTok,4.6,0,0
+2022/05/24 9:52:11 pm GMT+8,5/24/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),4,YouTube,4.2,0,0
+2022/05/24 9:52:43 pm GMT+8,5/24/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,1,5
+2022/05/24 9:54:09 pm GMT+8,5/24/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),2,YouTube,4.2,0,0
+2022/05/24 9:54:53 pm GMT+8,5/24/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),5.5,Twitter,3,0,2
+2022/05/24 9:57:02 pm GMT+8,5/24/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),5,Instagram,3.5,3,0
+2022/05/24 9:59:46 pm GMT+8,5/24/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),12.5,YouTube,4.2,2,0
+2022/05/25 10:37:54 pm GMT+8,5/25/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6,WhatsApp,4.3,0,1
+2022/05/25 10:39:12 pm GMT+8,5/25/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),3.5,TikTok,4.6,0,0
+2022/05/25 10:39:56 pm GMT+8,5/25/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3.5,YouTube,4.2,0,0
+2022/05/25 10:48:34 pm GMT+8,5/25/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),3.5,TikTok,4.6,0,1
+2022/05/25 10:52:42 pm GMT+8,5/25/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),4,TikTok,4.6,0,0
+2022/05/25 10:54:26 pm GMT+8,5/25/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),5,Instagram,3.5,0,0
+2022/05/25 10:56:01 pm GMT+8,5/25/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),6,WhatsApp,4.3,0,0
+2022/05/25 11:15:54 pm GMT+8,5/25/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),5,YouTube,4.2,0,67
+2022/05/25 8:13:14 pm GMT+8,5/25/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,WhatsApp,4.3,0,0
+2022/05/25 8:13:19 pm GMT+8,5/25/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),6,WhatsApp,4.3,0,0
+2022/05/25 8:13:58 pm GMT+8,5/25/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),2,TikTok,4.6,0,1
+2022/05/25 8:14:08 pm GMT+8,5/25/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),11,WhatsApp,4.3,0,2
+2022/05/25 8:19:17 pm GMT+8,5/25/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),6,YouTube,4.2,0,0
+2022/05/25 8:19:32 pm GMT+8,5/25/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook ,3.2,0,0
+2022/05/25 8:20:30 pm GMT+8,5/25/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),10,WhatsApp,4.3,0,1
+2022/05/25 8:31:03 pm GMT+8,5/25/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/25 8:33:30 pm GMT+8,5/25/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),2,YouTube ,4.2,0,0
+2022/05/25 8:35:32 pm GMT+8,5/25/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1.5,WhatsApp,4.3,0,0
+2022/05/26 10:01:26 pm GMT+8,5/26/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),3,YouTube ,4.2,0,0
+2022/05/26 10:01:56 pm GMT+8,5/26/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),10,YouTube,4.2,0,0
+2022/05/26 10:16:28 pm GMT+8,5/26/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/26 10:16:50 pm GMT+8,5/26/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),6,WhatsApp,4.3,0,0
+2022/05/26 10:19:38 pm GMT+8,5/26/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,0,2
+2022/05/26 10:22:50 pm GMT+8,5/26/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),6,Instagram ,3.5,0,1
+2022/05/26 10:26:27 pm GMT+8,5/26/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3,WhatsApp,4.3,0,0
+2022/05/26 10:32:20 pm GMT+8,5/26/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,WhatsApp,4.3,0,0
+2022/05/26 10:47:27 pm GMT+8,5/26/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),4,TikTok,4.6,0,0
+2022/05/26 7:46:29 pm GMT+8,5/26/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook ,3.2,0,0
+2022/05/26 7:47:29 pm GMT+8,5/26/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1.5,TikTok,4.6,0,2
+2022/05/26 7:49:42 pm GMT+8,5/26/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),4,TikTok,4.6,0,0
+2022/05/26 7:51:21 pm GMT+8,5/26/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),2,YouTube,4.2,0,0
+2022/05/26 7:59:28 pm GMT+8,5/26/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),6,WhatsApp,4.3,3,70
+2022/05/26 8:06:26 pm GMT+8,5/26/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),10,Facebook,3.2,2,1
+2022/05/26 8:44:29 pm GMT+8,5/26/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6,WhatsApp,4.3,0,0
+2022/05/26 9:54:52 pm GMT+8,5/26/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),3,TikTok,4.6,1,1
+2022/05/26 9:59:35 pm GMT+8,5/26/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),3.5,TikTok,4.6,0,0
+2022/05/27 10:00:48 pm GMT+8,5/27/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),6,WhatsApp,4.3,0,0
+2022/05/27 10:09:29 pm GMT+8,5/27/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),5,TikTok,4.6,0,2
+2022/05/27 10:14:39 pm GMT+8,5/27/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/27 10:15:49 pm GMT+8,5/27/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),13,YouTube,4.2,0,1
+2022/05/27 10:21:49 pm GMT+8,5/27/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),2.5,Twitter,3,0,3
+2022/05/27 10:27:59 pm GMT+8,5/27/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube,4.1,0,0
+2022/05/27 10:29:01 pm GMT+8,5/27/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,0,0
+2022/05/27 10:33:07 pm GMT+8,5/27/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3,Facebook,3.2,0,0
+2022/05/27 11:00:03 pm GMT+8,5/27/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),6,YouTube,4.2,3,71
+2022/05/27 11:00:09 pm GMT+8,5/27/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),4,TikTok,4.6,0,0
+2022/05/27 11:06:22 pm GMT+8,5/27/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6.5,Facebook,3.2,0,0
+2022/05/27 9:46:09 pm GMT+8,5/27/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),2,YouTube,4.2,0,0
+2022/05/27 9:46:18 pm GMT+8,5/27/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,0,0
+2022/05/27 9:46:24 pm GMT+8,5/27/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),1,YouTube ,4.2,0,0
+2022/05/27 9:47:28 pm GMT+8,5/27/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1.5,TikTok,4.6,0,0
+2022/05/27 9:49:55 pm GMT+8,5/27/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,Messenger,3.8,0,0
+2022/05/27 9:56:01 pm GMT+8,5/27/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),8,WhatsApp,4.3,0,1
+2022/05/27 9:58:00 pm GMT+8,5/27/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,TikTok,4.6,0,0
+2022/05/28 10:02:06 pm GMT+8,5/28/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),2,TikTok,4.6,0,0
+2022/05/28 10:20:16 pm GMT+8,5/28/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),6,YouTube,4.2,7,78
+2022/05/28 10:20:54 pm GMT+8,5/28/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),13,YouTube,4.2,0,0
+2022/05/28 10:23:05 pm GMT+8,5/28/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),7,WhatsApp,4.3,0,2
+2022/05/28 8:04:03 pm GMT+8,5/28/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/28 8:24:28 pm GMT+8,5/28/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),2,YouTube,4.2,0,0
+2022/05/28 8:24:33 pm GMT+8,5/28/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook ,3.2,1,2
+2022/05/28 8:26:24 pm GMT+8,5/28/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),6.5,TikTok,4.2,0,1
+2022/05/28 8:28:34 pm GMT+8,5/28/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,Facebook,3.2,0,0
+2022/05/28 8:30:31 pm GMT+8,5/28/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),6,TikTok,4.6,1,1
+2022/05/28 8:30:45 pm GMT+8,5/28/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),4,YouTube,4.2,0,0
+2022/05/28 8:32:14 pm GMT+8,5/28/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),3,WhatsApp,4.3,0,0
+2022/05/28 8:32:53 pm GMT+8,5/28/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,Messenger,3.8,0,0
+2022/05/28 8:33:10 pm GMT+8,5/28/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube,4.2,0,0
+2022/05/28 8:33:27 pm GMT+8,5/28/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),6,Facebook,3.2,0,1
+2022/05/28 8:35:36 pm GMT+8,5/28/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),10,Instagram,3.5,0,2
+2022/05/28 8:44:20 pm GMT+8,5/28/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1,WhatsApp,4.3,0,1
+2022/05/28 9:02:34 pm GMT+8,5/28/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),5,YouTube,4.2,0,0
+2022/05/29 10:24:57 pm GMT+8,5/29/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube,4.2,0,0
+2022/05/29 10:25:44 pm GMT+8,5/29/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,2,0
+2022/05/29 10:26:15 pm GMT+8,5/29/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),4.5,WhatsApp,4.3,0,0
+2022/05/29 10:31:16 pm GMT+8,5/29/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),5,YouTube,4.2,5,80
+2022/05/29 10:48:25 pm GMT+8,5/29/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,TikTok,4.6,0,0
+2022/05/29 10:49:21 pm GMT+8,5/29/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),2,TikTok,4.6,0,0
+2022/05/29 8:00:10 pm GMT+8,5/29/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),5,YouTube,4.2,0,0
+2022/05/29 8:00:41 pm GMT+8,5/29/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),12.5,YouTube,4.2,1,0
+2022/05/29 8:00:53 pm GMT+8,5/29/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),2.5,TikTok,4.6,0,0
+2022/05/29 8:01:05 pm GMT+8,5/29/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),1,YouTube,4.2,0,0
+2022/05/29 8:04:56 pm GMT+8,5/29/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),3,TikTok,4.6,2,1
+2022/05/29 8:05:16 pm GMT+8,5/29/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,Messenger,3.8,0,0
+2022/05/29 8:20:26 pm GMT+8,5/29/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),2.5,TikTok,4.6,0,1
+2022/05/29 8:48:42 pm GMT+8,5/29/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),7,WhatsApp,4.3,0,1
+2022/05/29 8:51:06 pm GMT+8,5/29/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),4,YouTube,4.2,0,1
+2022/05/29 8:56:06 pm GMT+8,5/29/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),6,YouTube,4.2,0,0
+2022/05/29 9:24:01 pm GMT+8,5/29/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/29 9:56:18 pm GMT+8,5/29/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),2,TikTok,4.6,0,1
+2022/05/30 10:15:50 pm GMT+8,5/30/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),6,WhatsApp,4.3,0,1
+2022/05/30 10:33:49 pm GMT+8,5/30/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3.5,WhatsApp,4.3,0,0
+2022/05/30 10:38:42 pm GMT+8,5/30/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2.5,Messenger,3.8,0,0
+2022/05/30 10:41:00 pm GMT+8,5/30/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1.5,WhatsApp,4.3,0,1
+2022/05/30 10:42:35 pm GMT+8,5/30/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),3,YouTube,4.2,0,0
+2022/05/30 10:55:01 pm GMT+8,5/30/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),4,WhatsApp ,4.3,0,0
+2022/05/30 11:15:56 pm GMT+8,5/30/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),2,TikTok,4.6,0,0
+2022/05/30 11:25:29 pm GMT+8,5/30/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/30 8:15:16 pm GMT+8,5/30/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,0,0
+2022/05/30 8:17:54 pm GMT+8,5/30/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),4,YouTube,4.2,0,0
+2022/05/30 8:18:39 pm GMT+8,5/30/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),4.5,TikTok,4.2,0,1
+2022/05/30 8:20:45 pm GMT+8,5/30/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),5,Facebook,3.1,0,0
+2022/05/30 8:47:27 pm GMT+8,5/30/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),4,TikTok,4.6,0,1
+2022/05/30 9:07:57 pm GMT+8,5/30/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),12.2,YouTube,4.2,1,3
+2022/05/30 9:08:35 pm GMT+8,5/30/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),4,TikTok,4.6,1,0
+2022/05/30 9:34:42 pm GMT+8,5/30/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,WhatsApp,4.3,0,0
+2022/05/30 9:35:22 pm GMT+8,5/30/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),3,Instagram,3.5,3,2
+2022/05/31 11:24:28 pm GMT+8,5/30/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),1.5,TikTok,4.5,0,0
+2022/05/31 11:37:17 pm GMT+8,5/31/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube ,4.2,0,0
+2022/05/31 11:41:28 pm GMT+8,5/31/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,TikTok,4.6,0,0
+2022/05/31 11:42:24 pm GMT+8,5/31/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),7.5,YouTube,4.2,0,2
+2022/05/31 11:43:25 pm GMT+8,5/31/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),1.5,TikTok,4.6,0,0
+2022/05/31 11:44:21 pm GMT+8,5/31/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),3,YouTube,4.2,0,0
+2022/05/31 11:46:24 pm GMT+8,5/31/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),7,WhatsApp,4.3,0,2
+2022/05/31 11:47:28 pm GMT+8,5/31/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),5.5,WhatsApp,4.3,0,0
+2022/05/31 11:48:36 pm GMT+8,5/31/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),2.5,TikTok,4.6,0,0
+2022/05/31 11:49:32 pm GMT+8,5/31/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),2,TikTok,4.6,0,2
+2022/05/31 11:50:34 pm GMT+8,5/31/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),5,YouTube,4.2,0,0
+2022/05/31 11:51:25 pm GMT+8,5/31/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,Messenger,3.8,0,0
+2022/05/31 11:52:27 pm GMT+8,5/31/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),2,TikTok,4.6,0,0
+2022/05/31 11:53:16 pm GMT+8,5/31/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),5,WhatsApp,4.3,0,0
+2022/05/31 11:54:33 pm GMT+8,5/31/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),2,Facebook,3.2,0,0
+2022/05/31 11:55:35 pm GMT+8,5/31/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,0,0
+2022/05/31 11:56:51 pm GMT+8,5/31/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/05/31 11:59:08 pm GMT+8,5/31/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),5.5,WhatsApp,4.3,0,0
+2022/05/31 7:43:28 pm GMT+8,5/31/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,0,2
+2022/06/01 10:02:02 pm GMT+8,6/1/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6,WhatsApp,4.3,0,1
+2022/06/01 10:02:19 pm GMT+8,6/1/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),4,Facebook,3.2,0,0
+2022/06/01 10:42:21 pm GMT+8,6/1/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),5,YouTube ,4.2,0,0
+2022/06/01 8:12:27 pm GMT+8,6/1/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),10.5,YouTube,4.2,0,0
+2022/06/01 8:13:32 pm GMT+8,6/1/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,0,0
+2022/06/01 8:13:53 pm GMT+8,6/1/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1.5,TikTok,4.6,0,0
+2022/06/01 8:14:00 pm GMT+8,6/1/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),2.5,WhatsApp ,4.3,0,0
+2022/06/01 8:14:37 pm GMT+8,6/1/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),5.5,TikTok ,4.6,0,0
+2022/06/01 8:17:28 pm GMT+8,6/1/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),6,YouTube,4.2,0,0
+2022/06/01 8:19:39 pm GMT+8,6/1/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),3,YouTube,4.2,9,90
+2022/06/01 8:39:41 pm GMT+8,6/1/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),7,WhatsApp,4.3,0,0
+2022/06/01 8:40:18 pm GMT+8,6/1/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,2,1
+2022/06/01 8:40:36 pm GMT+8,6/1/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,Messenger,3.8,0,0
+2022/06/01 8:56:07 pm GMT+8,6/1/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),2,TikTok,4.6,1,2
+2022/06/01 9:08:44 pm GMT+8,6/1/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),3,TikTok,4.6,0,0
+2022/06/01 9:19:42 pm GMT+8,6/1/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),9,YouTube,4.2,0,1
+2022/06/01 9:39:57 pm GMT+8,6/1/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),3,WhatsApp,4.3,0,0
+2022/06/01 9:59:46 pm GMT+8,6/1/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/06/02 10:42:51 pm GMT+8,6/2/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),3,Instagram,3.5,0,1
+2022/06/02 10:54:50 pm GMT+8,6/2/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),2,YouTube,4.2,0,0
+2022/06/02 11:11:32 pm GMT+8,6/2/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),7,WhatsApp,4.3,0,0
+2022/06/02 11:22:09 pm GMT+8,6/2/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),6,YouTube,4.2,7,93
+2022/06/02 8:09:27 pm GMT+8,6/2/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),2.5,TikTok,4.6,0,0
+2022/06/02 8:10:20 pm GMT+8,6/2/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),10.5,YouTube,4.2,3,5
+2022/06/02 8:10:39 pm GMT+8,6/2/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),1.5,WhatsApp ,4.3,0,0
+2022/06/02 8:10:39 pm GMT+8,6/2/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),2,WhatsApp,4.3,0,0
+2022/06/02 8:12:07 pm GMT+8,6/2/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,Messenger,3.8,1,0
+2022/06/02 8:12:42 pm GMT+8,6/2/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),6,WhatsApp,4.3,1,1
+2022/06/02 8:14:07 pm GMT+8,6/2/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),2,TikTok,4.6,0,0
+2022/06/02 8:55:21 pm GMT+8,6/2/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook ,3.2,0,0
+2022/06/02 9:02:38 pm GMT+8,6/2/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,WhatsApp,4.3,0,0
+2022/06/02 9:03:28 pm GMT+8,6/2/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,2,1
+2022/06/02 9:25:51 pm GMT+8,6/2/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),2,YouTube,4.2,0,0
+2022/06/02 9:30:51 pm GMT+8,6/2/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,WhatsApp,4.3,0,0
+2022/06/02 9:34:08 pm GMT+8,6/2/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/06/02 9:47:02 pm GMT+8,6/2/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),8,YouTube,4.2,0,0
+2022/06/03 10:32:38 pm GMT+8,6/3/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3,WhatsApp,4.3,0,0
+2022/06/03 10:51:52 pm GMT+8,6/3/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),4.5,TikTok,4.6,0,0
+2022/06/03 11:56:26 pm GMT+8,6/3/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),3.5,WhatsApp,4.3,0,0
+2022/06/03 8:25:12 pm GMT+8,6/3/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),8.5,YouTube,4.2,5,7
+2022/06/03 8:25:30 pm GMT+8,6/3/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,0,0
+2022/06/03 8:26:08 pm GMT+8,6/3/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1,WhatsApp,4.3,0,0
+2022/06/03 8:27:50 pm GMT+8,6/3/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),5,YouTube,4.2,0,0
+2022/06/03 8:28:27 pm GMT+8,6/3/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,0,0
+2022/06/03 8:29:30 pm GMT+8,6/3/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube,4.2,2,1
+2022/06/03 8:29:53 pm GMT+8,6/3/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,Messenger,3.8,0,0
+2022/06/03 9:05:41 pm GMT+8,6/3/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),5,YouTube,4.2,0,0
+2022/06/03 9:21:15 pm GMT+8,6/3/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),3,TikTok,4.6,0,94
+2022/06/03 9:21:18 pm GMT+8,6/3/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6,Facebook,3.2,0,1
+2022/06/03 9:22:34 pm GMT+8,6/3/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),3,TikTok,4.6,2,2
+2022/06/03 9:22:56 pm GMT+8,6/3/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/06/03 9:25:39 pm GMT+8,6/3/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),3,WhatsApp,4.3,1,1
+2022/06/03 9:35:43 pm GMT+8,6/3/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,TikTok,4.6,0,0
+2022/06/03 9:50:29 pm GMT+8,6/3/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),9,YouTube,4.2,0,1
+2022/06/04 10:16:47 pm GMT+8,6/4/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1,TikTok,4.6,0,0
+2022/06/04 10:19:14 pm GMT+8,6/4/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),2,TikTok,4.6,0,0
+2022/06/04 10:22:17 pm GMT+8,6/4/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube,4.2,0,0
+2022/06/04 10:22:53 pm GMT+8,6/4/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,0,1
+2022/06/04 10:32:03 pm GMT+8,6/4/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),7,TikTok,4.6,0,94
+2022/06/04 10:32:21 pm GMT+8,6/4/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),4,YouTube ,4.2,0,0
+2022/06/04 10:33:40 pm GMT+8,6/4/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),12.5,YouTube,4.2,4,3
+2022/06/04 8:27:35 pm GMT+8,6/4/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6,Facebook,3.2,0,0
+2022/06/04 8:28:35 pm GMT+8,6/4/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),3,WhatsApp,4.3,0,0
+2022/06/04 8:29:00 pm GMT+8,6/4/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),4,WhatsApp,4.3,0,0
+2022/06/04 8:29:02 pm GMT+8,6/4/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/06/04 8:29:23 pm GMT+8,6/4/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),4.5,WhatsApp,4.3,0,0
+2022/06/04 8:31:54 pm GMT+8,6/4/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),5,YouTube,4.2,0,0
+2022/06/04 8:32:29 pm GMT+8,6/4/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,Messenger,3.8,0,0
+2022/06/04 8:42:23 pm GMT+8,6/4/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook,3.2,0,0
+2022/06/04 9:01:32 pm GMT+8,6/4/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),5,TikTok,4.6,0,1
+2022/06/04 9:09:01 pm GMT+8,6/4/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),10,YouTube,4.2,0,1
+2022/06/04 9:48:53 pm GMT+8,6/4/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),2,TikTok,4.6,0,0
+2022/06/05 10:01:42 pm GMT+8,6/5/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2,Messenger,3.8,0,0
+2022/06/05 10:05:02 pm GMT+8,6/5/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,TikTok,4.6,0,0
+2022/06/05 10:18:29 pm GMT+8,6/5/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3,WhatsApp,4.3,0,0
+2022/06/05 10:19:35 pm GMT+8,6/5/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),4,YouTube,4.2,0,0
+2022/06/05 10:25:01 pm GMT+8,6/5/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),10,YouTube,4.2,0,1
+2022/06/05 10:30:34 pm GMT+8,6/5/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),10,YouTube,4.2,0,0
+2022/06/05 10:40:29 pm GMT+8,6/5/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
+2022/06/05 10:51:40 pm GMT+8,6/5/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),7,WhatsApp ,4.3,0,0
+2022/06/05 8:02:31 pm GMT+8,6/5/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),3,TikTok,4.6,3,1
+2022/06/05 8:05:22 pm GMT+8,6/5/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),3.5,TikTok ,4.6,0,0
+2022/06/05 8:07:44 pm GMT+8,6/5/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook ,3.2,0,0
+2022/06/05 8:20:39 pm GMT+8,6/5/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),6,YouTube,4.2,0,0
+2022/06/05 8:21:23 pm GMT+8,6/5/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),3,Instagram,3.5,1,2
+2022/06/05 8:27:36 pm GMT+8,6/5/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),8,TikTok,4.6,0,95
+2022/06/05 8:28:42 pm GMT+8,6/5/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),6,YouTube,4.2,0,0
+2022/06/05 9:13:49 pm GMT+8,6/5/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),0.5,Instagram,3.5,0,0
+2022/06/05 9:15:22 pm GMT+8,6/5/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),7,Facebook,3.2,0,0
+2022/06/05 9:21:43 pm GMT+8,6/5/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),1,TikTok,4.6,0,0
+2022/06/06 10:21:14 pm GMT+8,6/6/2022,Female,21,Malay,Malacca,Universiti Malaysia Kelantan (UMK),1.5,TikTok,4.6,0,0
+2022/06/06 10:21:33 pm GMT+8,6/6/2022,Male,22,Chinese,Johor,Universiti Malaysia Pahang (UMP),2.5,Messenger,3.8,0,0
+2022/06/06 10:23:32 pm GMT+8,6/6/2022,Male,21,Chinese,Pahang,Universiti Malaysia Pahang (UMP),3,TikTok,4.6,0,2
+2022/06/06 10:26:00 pm GMT+8,6/6/2022,Female,21,Chinese,Perak,Universiti Utara Malaysia (UUM),6,WhatsApp,4.3,0,0
+2022/06/06 11:14:12 pm GMT+8,6/6/2022,Female,20,Malay,Pahang,Universiti Malaya (UM),1,TikTok,4.6,0,0
+2022/06/06 8:13:04 pm GMT+8,6/6/2022,Female,21,Malay,Malacca,Universiti Malaysia Pahang (UMP),5.5,WhatsApp,4.3,0,0
+2022/06/06 8:15:27 pm GMT+8,6/6/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),1.5,Facebook,3.2,0,0
+2022/06/06 8:21:02 pm GMT+8,6/6/2022,Male,21,Chinese,Penang,Universiti Utara Malaysia (UUM),5,YouTube,4.2,0,0
+2022/06/06 8:24:25 pm GMT+8,6/6/2022,Male,21,Chinese,Johor,Universiti Malaya (UM),4,Instagram,3.5,0,0
+2022/06/06 8:25:15 pm GMT+8,6/6/2022,Male,21,Chinese,Johor,Universiti Malaysia Pahang (UMP),5,YouTube,4.2,0,0
+2022/06/06 8:36:49 pm GMT+8,6/6/2022,Female,21,Chinese,Perak,Universiti Sains Malaysia (USM),7,WhatsApp,4.3,0,1
+2022/06/06 8:46:41 pm GMT+8,6/6/2022,Male,21,Chinese,Penang,Universiti Malaysia Pahang (UMP),8.5,YouTube,4.2,1,2
+2022/06/06 8:54:00 pm GMT+8,6/6/2022,Male,23,Chinese,Penang,Universiti Malaysia Sarawak (UNIMAS),0.5,Facebook ,3.2,0,0
+2022/06/06 9:00:19 pm GMT+8,6/6/2022,Male,21,Chinese,Sarawak,Universiti Malaysia Pahang (UMP),3,WhatsApp,4.3,0,0
+2022/06/06 9:00:39 pm GMT+8,6/6/2022,Female,21,Indian,Perak,Universiti Malaysia Sarawak (UNIMAS),5,YouTube,4.2,0,0
+2022/06/06 9:02:46 pm GMT+8,6/6/2022,Female,21,Chinese,Perak,Universiti Malaysia Pahang (UMP),7,WhatsApp,4.3,0,1
+2022/06/06 9:08:34 pm GMT+8,6/6/2022,Female,21,Malay,Malacca,Universiti Teknologi MARA (UiTM),6,YouTube,4.2,0,94
+2022/06/06 9:18:03 pm GMT+8,6/6/2022,Male,21,Chinese,Johor,Universiti Tun Hussein Onn Malaysia (UTHM),2,Instagram,3.5,0,0
